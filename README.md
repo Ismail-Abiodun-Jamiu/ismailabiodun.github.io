@@ -1,1 +1,123 @@
 # ismailabiodun.github.io
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ismail Abiodun Jamiu</title>
+<meta charset="UTF-8">
+<style>
+body{
+font-family:Arial,sans-serif;
+max-width:900px;
+margin:auto;
+padding:20px;
+line-height:1.6;
+}
+
+h1{
+color:#003366;
+}
+
+.section{
+margin-top:30px;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Ismail Abiodun Jamiu</h1>
+
+<p>
+Finance Professional | Associate Chartered Accountant (ICAN) |
+Data Analytics Enthusiast | Aspiring Financial Mathematician
+</p>
+
+<div class="section">
+<h2>About Me</h2>
+
+<p>
+I am passionate about using mathematics, finance, and technology to solve real-world problems. My background combines quantitative reasoning, accounting expertise, data analytics, and emerging technologies.
+</p>
+
+</div>
+
+<div class="section">
+<h2>Education</h2>
+
+<p>
+B.Sc. Mathematics and Education
+<br>
+CGPA: 4.65/5.00
+<br>
+Ekiti State University
+</p>
+
+</div>
+
+<div class="section">
+<h2>Professional Qualification</h2>
+
+<p>
+Associate Chartered Accountant (ICAN)
+</p>
+
+</div>
+
+<div class="section">
+<h2>Research Interests</h2>
+
+<ul>
+
+<li>Financial Mathematics</li>
+
+<li>Quantitative Finance</li>
+
+<li>Artificial Intelligence</li>
+
+<li>Financial Technology</li>
+
+<li>Risk Management</li>
+
+<li>Data Analytics</li>
+
+</ul>
+
+</div>
+
+<div class="section">
+
+<h2>Technical Skills</h2>
+
+<ul>
+
+<li>Excel</li>
+
+<li>Power BI</li>
+
+<li>SQL</li>
+
+<li>Python</li>
+
+<li>Financial Analysis</li>
+
+</ul>
+
+</div>
+
+<div class="section">
+
+<h2>Contact</h2>
+
+<p>
+
+LinkedIn:
+www.linkedin.com/in/abiodun-ismail-433171282
+
+</p>
+
+</div>
+
+</body>
+</html>
