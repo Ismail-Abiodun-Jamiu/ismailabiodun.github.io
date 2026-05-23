@@ -113,7 +113,7 @@ Associate Chartered Accountant (ICAN)
 <p>
 
 LinkedIn:
-www.linkedin.com/in/abiodun-ismail-433171282
+www.linkedin.com/in/abiodun-ismail-jamiu
 
 </p>
 
