@@ -115,6 +115,9 @@ Associate Chartered Accountant (ICAN)
 LinkedIn:
 www.linkedin.com/in/abiodun-ismail-jamiu
 
+Email:
+abiodun.j.ismail@gmail.com
+
 </p>
 
 </div>
